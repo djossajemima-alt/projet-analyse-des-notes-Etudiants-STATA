@@ -57,11 +57,14 @@ do analyse_etudiants.do
 | R² de la régression               | 0.89 (89% de variance expliquée)  |
 | Effet d'1h d'étude supplémentaire | + 0.59 point                      |
 | Test t (p-value)                  | < 0.001 (différence significative)|
+
+
 📊 Graphiques produits
 - Histogramme de la distribution des notes
 - Boxplot des notes par sexe
 - Nuage de points heures d'étude vs notes
 - Droite de régression linéaire
+
 ## 🛠️ Compétences démontrées
 - Traitement et analyse de données avec **Stata**
 - Rédaction de **do-files** clairs et commentés
@@ -69,6 +72,7 @@ do analyse_etudiants.do
 - Régression linéaire simple et multiple
 - Visualisation de données (histogramme, boxplot, scatter plot)
 - Documentation et partage de projets sur **GitHub**
+
 ## 📚 Notions statistiques abordées
 - Moyenne, écart-type, médiane, percentiles
 - Test t de Student (comparaison de deux groupes)
@@ -83,5 +87,4 @@ do analyse_etudiants.do
 - 💼 LinkedIn : linkedin.com/in/djossajemima
 
 ## 📅 Date
-
 Mai 2026
