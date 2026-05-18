@@ -122,9 +122,9 @@ do analyse_etudiants.do
 
 ## 👤 Auteur
 DJOSSA Jemima G.
-- 🐙 GitHub : github.com/djossajemima-alt
+- 🐙 GitHub : https://github.com/djossajemima-alt
 - 📧 Email : djossajemima@gmail.com
-- 💼 LinkedIn : linkedin.com/in/djossajemima
+- 💼 LinkedIn: https://www.linkedin.com/in/djossajemima
 
 ## 📅 Date
 
