@@ -4,8 +4,6 @@
 ![Status](https://img.shields.io/badge/Status-Complet-green)
 ![Niveau](https://img.shields.io/badge/Niveau-Débutant-orange)
 
----
-
 ## 📌 Description
 
 Ce projet analyse les résultats académiques de 20 étudiants fictifs.
@@ -15,7 +13,6 @@ Il explore les liens entre les heures d'étude, le sexe et les notes obtenues
 Il s'agit d'un projet d'apprentissage personnel visant à maîtriser
 les fondamentaux de l'analyse de données avec Stata.
 
----
 
 ## 🎯 Objectifs
 
@@ -27,7 +24,7 @@ les fondamentaux de l'analyse de données avec Stata.
 - Effectuer une régression linéaire simple et multiple
 - Produire des graphiques clairs et interprétables
 
----
+
 
 ## 📁 Contenu du dépôt
 
@@ -39,7 +36,7 @@ projet1_etudiants/
 └── README.md                ← Documentation du projet
 ```
 
----
+
 
 ## 🗂️ Description des variables
 
@@ -51,14 +48,13 @@ projet1_etudiants/
 | note          | Numérique | Note obtenue sur 20                |
 | heures_etude  | Numérique | Heures d'étude par semaine         |
 
----
+
 
 ## 🔧 Logiciel utilisé
 
 - **Stata** (version 16 ou supérieure recommandée)
 - **Microsoft Excel** (pour la base de données)
 
----
 
 ## 🚀 Comment utiliser ce projet
 
@@ -66,19 +62,18 @@ projet1_etudiants/
 ```bash
 git clone https://github.com/votre-nom/projets-stata-analyse-donnees.git
 cd projets-stata-analyse-donnees/projet1_etudiants
-```
+
 
 ### Étape 2 — Ouvrir Stata et définir le répertoire de travail
 ```stata
 cd "chemin/vers/projet1_etudiants"
-```
+
 
 ### Étape 3 — Exécuter le do-file
 ```stata
 do analyse_etudiants.do
-```
 
----
+
 
 ## 📈 Résultats obtenus
 
@@ -98,7 +93,6 @@ do analyse_etudiants.do
 - Nuage de points heures d'étude vs notes
 - Droite de régression linéaire
 
----
 
 ## 🛠️ Compétences démontrées
 
@@ -109,7 +103,6 @@ do analyse_etudiants.do
 - Visualisation de données (histogramme, boxplot, scatter plot)
 - Documentation et partage de projets sur **GitHub**
 
----
 
 ## 📚 Notions statistiques abordées
 
