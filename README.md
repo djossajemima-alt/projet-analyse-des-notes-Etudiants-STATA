@@ -119,22 +119,16 @@ do analyse_etudiants.do
 - Régression linéaire simple (OLS)
 - Variables indicatrices (dummy variables)
 
----
 
 ## 👤 Auteur
-
-**[Votre Nom]**
-- 🐙 GitHub : [votre-profil-github]
-- 📧 Email : [votre-email]
-- 💼 LinkedIn : [votre-profil-linkedin]
-
----
+DJOSSA Jemima G.
+- 🐙 GitHub : github.com/djossajemima-alt
+- 📧 Email : djossajemima@gmail.com
+- 💼 LinkedIn : linkedin.com/in/djossajemima
 
 ## 📅 Date
 
 Mai 2026
-
----
 
 ## 📜 Licence
 
