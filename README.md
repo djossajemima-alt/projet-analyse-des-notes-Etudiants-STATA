@@ -47,6 +47,8 @@ cd "chemin/vers/projet1_etudiants"
 ### Étape 3 — Exécuter le do-file
 ```stata
 do analyse_etudiants.do
+
+
 ## 📈 Résultats obtenus
 | Indicateur                        | Résultat                          |
 |-----------------------------------|-----------------------------------|
