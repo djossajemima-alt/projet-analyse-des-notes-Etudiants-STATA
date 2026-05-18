@@ -60,7 +60,6 @@ do analyse_etudiants.do
 | Effet d'1h d'étude supplémentaire | + 0.59 point                      |
 | Test t (p-value)                  | < 0.001 (différence significative)|
 
-
 📊 Graphiques produits
 - Histogramme de la distribution des notes
 - Boxplot des notes par sexe
@@ -80,13 +79,13 @@ do analyse_etudiants.do
 - Test t de Student (comparaison de deux groupes)
 - Coefficient de corrélation de Pearson
 - Régression linéaire simple (OLS)
-- Variables indicatrices (dummy variables)
+- Variables indicatrices (dummy variable
 
-## 👤 Auteur
+👤 Auteur
 **DJOSSA Jemima**
 - 🐙 GitHub : djossajemima-alt
 - 📧 Email : djossajemima@gmail.com
 - 💼 LinkedIn : linkedin.com/in/djossajemima
 
-## 📅 Date
+📅 Date
 Mai 2026
